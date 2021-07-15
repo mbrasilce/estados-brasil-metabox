@@ -9,7 +9,7 @@ ES:Espírito Santo
 GO:Goiás
 MA:Maranhão
 MG:Mato Grosso
-MS:Mato Grosso do Sul
+MT:Mato Grosso do Sul
 MG:Minas Gerais
 PA:Paraná
 PB:Paraíba
