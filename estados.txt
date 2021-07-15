@@ -18,8 +18,8 @@ PI : Piauí
 PR : Paraná
 RJ : Rio de Janeiro
 RN : Rio Grande do Norte
-RS : Rio Grande do Sul
 RO : Rondonia
+RS : Rio Grande do Sul
 RR : Roraima
 SC : Santa Catarina
 SE : Sergipe
