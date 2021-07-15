@@ -8,9 +8,9 @@ DF : Distrito Federal
 ES : Espírito Santo
 GO : Goiás
 MA : Maranhão
+MG : Minas Gerais
 MT : Mato Grosso
 MS : Mato Grosso do Sul
-MG : Minas Gerais
 PA : Paraná
 PB : Paraíba
 PR : Pará
