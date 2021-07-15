@@ -9,8 +9,8 @@ ES : Espírito Santo
 GO : Goiás
 MA : Maranhão
 MG : Minas Gerais
-MT : Mato Grosso
 MS : Mato Grosso do Sul
+MT : Mato Grosso
 PA : Paraná
 PB : Paraíba
 PR : Pará
