@@ -14,8 +14,8 @@ MT : Mato Grosso
 PA : Pará
 PB : Paraíba
 PE : Pernambuco
-PR : Paraná
 PI : Piauí
+PR : Paraná
 RJ : Rio de Janeiro
 RN : Rio Grande do Norte
 RS : Rio Grande do Sul
